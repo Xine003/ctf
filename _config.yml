@@ -2,8 +2,8 @@ theme: jekyll-theme-chirpy   # keep this
 lang: en
 timezone: Asia/Manila
 
-title: "Xine003's CTF Writeup"
-tagline: "A CTF-focused writeup blog"
+title: "Xine003"
+tagline: "It might take some time"
 description: "All Xine003's CTF writeups are here!"
 
 url: "http://localhost:4000"
