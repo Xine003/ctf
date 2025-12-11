@@ -19,4 +19,10 @@ social:
     - https://github.com/Xine003
     - https://www.linkedin.com/in/franxine-orias/
 
+collections:
+  tabs:
+    output: true
+    sort_by: order
+
+
 paginate: 10   # posts per page
