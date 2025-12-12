@@ -5,6 +5,7 @@ timezone: Asia/Manila
 title: "Xine003"
 tagline: "It might take some time"
 description: "All Xine003's CTF writeups are here!"
+avatar: /assets/image/Denrina.jpg
 
 url: "http://localhost:4000"
 baseurl: ""
